@@ -1,5 +1,6 @@
 space=5
 star=1
+
 while(space>1):
     print(space*' '+star*'*'+space*' ')
     space-=1
